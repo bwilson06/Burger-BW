@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bwilson06/Burger-BW#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^4.0.4",
     "jquery": "^3.5.1",
     "mysql": "^2.18.1"
